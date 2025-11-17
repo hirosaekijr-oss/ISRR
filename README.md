@@ -1,6 +1,8 @@
 # ISRR
 Sistema destinado a extrair dados das ISR Rede, que estão no formato PDF, armazenar esses dados em um BD e possibilitar a edição dos dados
 
+Os arquivos a serem lidos devem estar na pasta 'Downloads' do usuário, e serão movidos para a pasta em 'Z:\Access_COS\ISRR\PDF_LIDOS\ , os arquivos que iniciarem com ISSR, com extensão .pdf.
+
 
 
 
