@@ -13,7 +13,7 @@ Caminho da pasta onde devem ser colocados os arquivos e o caminho '\\\ELFS1\cos_
 
 Caso o banco de dados seja movido para outro servidor, os arquivos e programas:
 
-'1-EXECUTE_ESSE_PROGRAMA_PRIMEIRO.exe'      -compilar o programa  'PDF2XLSX.py' e salavar com o nome:  '1-EXECUTE_ESSE_PROGRAMA_PRIMEIRO.exe'
+'1-EXECUTE_ESSE_PROGRAMA_PRIMEIRO.exe'      -compilar o programa  'PDF2XLSX.py' e salvar com o nome:  '1-EXECUTE_ESSE_PROGRAMA_PRIMEIRO.exe'
 
 '2.exe'                                     -compilar o programa 'copia_output_to_padronizador.xlsm.py' e salvar com o nome:  '2.exe'
 
