@@ -14,9 +14,13 @@ Caminho da pasta onde devem ser colocados os arquivos e o caminho '\\\ELFS1\cos_
 Caso o banco de dados seja movido para outro servidor, os arquivos e programas:
 
 '1-EXECUTE_ESSE_PROGRAMA_PRIMEIRO.exe'      -compilar o programa  'PDF2XLSX.py' e salavar com o nome:  '1-EXECUTE_ESSE_PROGRAMA_PRIMEIRO.exe'
+
 '2.exe'                                     -compilar o programa 'copia_output_to_padronizador.xlsm.py' e salvar com o nome:  '2.exe'
+
 '3.exe'                                     -compilar o programa  'Executar Macro padronizador.py' e salvar com o nome '3.exe'
+
 '4.exe'                                     -complilar o programa 'copiar_planilha.py' e salvar como '4.exe'
+
 '5.exe'                                    -compilar o programa 'insere_dados.py' e salvar como '5.exe'
 
 'ISRR.accdb' ou para melhor segurança alterar para 'ISRR.accdr'
