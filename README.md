@@ -11,7 +11,7 @@ Caminho da pasta onde devem ser colocados os arquivos e o caminho '\\\ELFS1\cos_
 
 
 
-Caso o banco de dados seja movido para outro servidor, os arquivos e programas:
+Caso o banco de dados seja movido para outro servidor, uma unidade de rede deve ser mapeada como 'Z:' e os arquivos abaixo devem ser colocados no diretório 'Z:\Access_COS\ISRR\'.
 
 '1-EXECUTE_ESSE_PROGRAMA_PRIMEIRO.exe'      -compilar o programa  'PDF2XLSX.py' e salvar com o nome:  '1-EXECUTE_ESSE_PROGRAMA_PRIMEIRO.exe'
 
