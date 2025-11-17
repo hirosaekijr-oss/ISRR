@@ -9,6 +9,18 @@ Caminho da pasta onde devem ser colocados os arquivos e o caminho '\\\ELFS1\cos_
 
 <img width="1541" height="836" alt="ISRR" src="https://github.com/user-attachments/assets/e3a2e269-df19-42a7-8fc5-ae040ccb937f" />
 
+# Pode ser necessário a instalação de algumas bibliotecas no Python 3.
+
+# pip install pyodbc
+# pip install openpyxl
+# pip install pandas
+
+# Para instalar a biblioteca "tika" é necessário instalar o "Java Development Kit (JDK)"
+
+# sudo apt-get update
+# sudo apt-get install default-jdk
+
+# pip install tika
 
 
 Caso o banco de dados seja movido para outro servidor, uma unidade de rede deve ser mapeada como 'Z:' e os arquivos abaixo devem ser colocados no diretório 'Z:\Access_COS\ISRR\'.
